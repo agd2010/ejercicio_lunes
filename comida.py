@@ -1,4 +1,5 @@
 class Comida():
+    #test de cambio para git
     def __init__(self, salado_dulce: str) -> str:
         self.salado_dulce = salado_dulce
 
